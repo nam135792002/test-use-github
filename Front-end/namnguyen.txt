@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 edit file
+=======
+hi, hello, minhf laf nam
+>>>>>>> 1b98ee8c130ba170fd37b245bddb72e7f3aeb261
